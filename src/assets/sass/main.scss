@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter";
+}
+
+.container {
+  max-width: 1140px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.all{
+  background-color: #3E8989;
+ 
+}
+.go_all{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.img_img{
+  background-color: black;
+}
+.go_link{
+  text-decoration: none;
+  list-style: none;
+  margin: 0 30px;
+  color: aliceblue;
+}
+.go_list{
+  display: flex;
+}
+.nav_logo{
+justify-content: start;
+}
+.search{
+  justify-content: flex-end;
+}
+.nav_logo1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.all2{
+  background-image: url('../../../public/pic.png');
+  height: 800px;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.esse{
+ text-align: center;
+}
+.title{
+  color: aliceblue;
+
+}
+.text{
+  color: aliceblue;
+  margin: 20px 0px 50px 0px;
+}
+.more{
+  padding: 14px 77px 14px 77px;
+  background-color: #B4436C;
+  color: aliceblue;
+  border-radius: 30px;
+}
+.title{
+  text-align: center;
+}
+.title_us{
+  color: #3E8989;
+ padding: 80px 0px 50px 0px;
+}
+.all1{
+  display: flex;
+}
+.esse{
+  margin-right: 20px;
+  padding-top: 9px;
+}
+.text1{
+  text-align: left;
+  max-width: 545px;
+  max-height: 105px;
+}
+.text2{
+  text-align: left;
+  margin-top: 20px;
+  max-width: 545px;
+  max-height: 63px;
+}
+.img{
+  margin-right: 20px;
+}
+.all3{
+  display: flex;
+}
+.info1{
+  background-image: url(../../../public/bacround.png);
+  max-width: 263px;
+  max-height: 300px;
+  margin: 19px;
+}
+.info2{
+  background-image: url(../../../public/bacround.png);
+  max-width: 263px;
+  max-height: 300px;
+  margin: 19px;
+}
+.info_img2{
+margin: 77px 22px;
+}
+.info3{
+  background-image: url(../../../public/bacround.png);
+  max-width: 263px;
+  max-height: 300px;
+  margin: 19px;
+}
+.info_img3{
+  margin: 75px 1px;
+}
+.info4{
+  background-image: url(../../../public/bacround.png);
+  max-width: 263px;
+  max-height: 300px;
+  margin: 19px;
+}
+.info_img4{
+  margin: 19px 0px;
+  
+}
+.info_img1{
+ margin: 1px 32px 2px 32px;  
+}
+.info_title1{
+  text-align: center;
+  margin-top: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.contacts{
+  padding: 100px 0px 104px 0px;
+  
+}
+.contacts1{
+  display: flex;
+  justify-content: space-between;
+}
+.con_title{
+  padding-bottom: 50px;
+}
+.con_text{
+  max-width: 555px;
+  max-height: 48px;
+  
+}
+.con_link{
+  flex-direction: column;
+    display: flex;
+    align-items: end;
+    gap: 20px;
+    margin-top: 72px;
+}
+.tel{
+  text-decoration: none;
+  color: black;
+}
+.gmail{
+  text-decoration: none;
+  color: black;
+}
+.footer{
+  background-color: #3E8989;
+  
+}
+.go_list1{
+  display: flex;
+ padding: 40px 0px 59px;
+ justify-content: center;
+
+}
+.go_link1{
+ margin: 0px 30px;
+ text-decoration: none;
+ list-style: none; 
+ color: #fff;
+}
+.rig{
+  color: #fff;
+  padding-bottom: 15px;
+  text-align: center;
+
+
+}
